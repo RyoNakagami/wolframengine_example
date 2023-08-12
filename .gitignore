@@ -1,0 +1,33 @@
+# AUTHOR: RyoNak
+# UPDATE: 2023-08-03
+# General
+# General
+sandbox/
+tmp/
+
+# Envrionments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Sensitive
+.gpg
+
+# Directory/file cache
+.DS_Store
+.bak
+.swp
+
+# IDE specific
+.vscode/
+
+# Logs
+logs
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
